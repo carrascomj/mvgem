@@ -1,0 +1,5 @@
+# Run pip install --requirement=requirements.txt to install all requirements
+
+click==6.7
+cobra==0.17.1
+scipy==1.4.1  # for matlab format
